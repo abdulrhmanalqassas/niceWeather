@@ -2,8 +2,7 @@
 const mainTemp = document.querySelector("#temp")
 // const mainTemp = document.querySelector("#cuntry")
 
-
-//forcast
+//foorcast
 fetch("https://weatherbit-v1-mashape.p.rapidapi.com/forecast/3hourly?lat=35.5&lon=-78.5&lang=en", {
 	"method": "GET",
 	"headers": {
