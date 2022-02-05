@@ -1,3 +1,2 @@
 # niceWeather
-
-weather app using api 
+pull task
