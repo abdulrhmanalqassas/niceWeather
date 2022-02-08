@@ -1,3 +1,5 @@
 # niceWeather
 
-note
+
+weather app using api 
+
